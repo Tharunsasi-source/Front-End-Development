@@ -5,3 +5,5 @@ https://tharunsasi-source.github.io/Front-End-Development/registration.html
 
 <img width="331" height="623" alt="image" src="https://github.com/user-attachments/assets/083f05c1-720d-48f5-bf40-3801a4cc6587" />
 
+https://tharunsasi-source.github.io/Front-End-Development/notice.html
+
