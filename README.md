@@ -14,3 +14,10 @@ https://tharunsasi-source.github.io/Front-End-Development/gallary.html
 
 <img width="1914" height="317" alt="image" src="https://github.com/user-attachments/assets/76dd45b6-6c85-499d-9fc5-fe5115b37d11" />
 
+https://tharunsasi-source.github.io/Front-End-Development/hw1.html
+
+<img width="319" height="197" alt="Screenshot 2026-02-23 084618" src="https://github.com/user-attachments/assets/a06d61c5-4066-463b-9e99-4f8510a21e70" />
+
+https://tharunsasi-source.github.io/Front-End-Development/hw2.html
+
+<img width="369" height="146" alt="image" src="https://github.com/user-attachments/assets/c9f74476-74c2-41ff-bfb0-19b89f2b5d74" />
