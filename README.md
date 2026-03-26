@@ -24,4 +24,6 @@ https://tharunsasi-source.github.io/Front-End-Development/hw2.html
 
 https://github.com/Tharunsasi-source/Front-End-Development/hover.html
 
+<img width="151" height="69" alt="image" src="https://github.com/user-attachments/assets/b9cba2da-74dc-4d6c-9723-5f13e6d55013" />
+
 
