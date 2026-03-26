@@ -30,5 +30,7 @@ https://tharunsasi-source.github.io/Front-End-Development/Validation%20Form.html
 
 <img width="304" height="199" alt="image" src="https://github.com/user-attachments/assets/305915e8-70c5-495d-a45f-2f3853911ce1" />
 
+https://tharunsasi-source.github.io/Front-End-Development/calculator.html
+
 
 
