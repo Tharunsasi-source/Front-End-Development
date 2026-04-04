@@ -33,3 +33,8 @@ https://tharunsasi-source.github.io/Front-End-Development/Validation%20Form.html
 https://tharunsasi-source.github.io/Front-End-Development/calculator.html
 
 <img width="289" height="350" alt="image" src="https://github.com/user-attachments/assets/6b642a7a-a267-4e34-8b55-a104f7770f16" />
+
+https://tharunsasi-source.github.io/Front-End-Development/Digital clock.html
+
+<img width="440" height="277" alt="image" src="https://github.com/user-attachments/assets/035db6e2-edd0-4562-9931-4cd7bec933eb" />
+
