@@ -38,5 +38,6 @@ https://tharunsasi-source.github.io/Front-End-Development/Digitalclock.html
 
 <img width="440" height="277" alt="image" src="https://github.com/user-attachments/assets/035db6e2-edd0-4562-9931-4cd7bec933eb" />
 
-https://tharunsasi-source.github.io/Front-End-Development/To-Do-List.html
+https://tharunsasi-source.github.io/Front-End-Development/To-Do-list.html
 
+<img width="223" height="184" alt="image" src="https://github.com/user-attachments/assets/4dbd0b00-35ef-410f-9aab-5565a72d7528" />
