@@ -61,3 +61,7 @@ https://tharunsasi-source.github.io/Front-End-Development/Responsive.html
 https://tharunsasi-source.github.io/Front-End-Development/Hotal.html
 
 <img width="1220" height="723" alt="image" src="https://github.com/user-attachments/assets/42be91d3-6b92-40d7-a0a9-07e0e4048255" />
+
+https://tharunsasi-source.github.io/Front-End-Development/nav.html
+
+<img width="1919" height="112" alt="image" src="https://github.com/user-attachments/assets/053528b6-1d0e-430c-9387-b00afdfdfe47" />
