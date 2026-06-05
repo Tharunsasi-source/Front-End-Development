@@ -57,3 +57,7 @@ https://tharunsasi-source.github.io/Front-End-Development/font.html
 https://tharunsasi-source.github.io/Front-End-Development/Responsive.html
 
 <img width="1919" height="492" alt="image" src="https://github.com/user-attachments/assets/9b2b87f0-71d2-481c-b4ce-4d510fd05362" />
+
+https://tharunsasi-source.github.io/Front-End-Development/Hotal.html
+
+<img width="1220" height="723" alt="image" src="https://github.com/user-attachments/assets/42be91d3-6b92-40d7-a0a9-07e0e4048255" />
