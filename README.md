@@ -46,3 +46,6 @@ https://tharunsasi-source.github.io/Front-End-Development/To-Do-list.html
 
 <img width="1473" height="497" alt="image" src="https://github.com/user-attachments/assets/525e278f-cf41-46be-9d31-06f66f87bcc2" />
 
+https://tharunsasi-source.github.io/Front-End-Development/event.html
+
+<img width="432" height="192" alt="image" src="https://github.com/user-attachments/assets/28438798-438b-4acf-b5e6-df09eccf12df" />
