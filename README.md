@@ -65,3 +65,7 @@ https://tharunsasi-source.github.io/Front-End-Development/Hotal.html
 https://tharunsasi-source.github.io/Front-End-Development/nav.html
 
 <img width="1919" height="112" alt="image" src="https://github.com/user-attachments/assets/053528b6-1d0e-430c-9387-b00afdfdfe47" />
+
+https://tharunsasi-source.github.io/Front-End-Development/coffee.html
+
+<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/d5a456b6-1e01-4722-a065-4a104c31cad4" />
