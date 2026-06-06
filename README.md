@@ -69,3 +69,7 @@ https://tharunsasi-source.github.io/Front-End-Development/nav.html
 https://tharunsasi-source.github.io/Front-End-Development/coffee.html
 
 <img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/d5a456b6-1e01-4722-a065-4a104c31cad4" />
+
+https://tharunsasi-source.github.io/Front-End-Development/image_slider.html
+
+<img width="794" height="574" alt="image" src="https://github.com/user-attachments/assets/a62cbbfd-ae3a-49fd-bc84-2924de0b032e" />
