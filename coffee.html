@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Coffee House</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial;
+      text-align: center;
+    }
+
+    /* Navbar */
+    nav {
+      display: flex;
+      justify-content: space-between;
+      padding: 15px;
+      background: #3b2f2f;
+      color: white;
+      align-items: center;
+    }
+
+    nav a {
+      color: white;
+      margin-left: 15px;
+      text-decoration: none;
+    }
+
+    /* Hero */
+    .hero {
+      padding: 60px;
+      background: #f5e6d3;
+    }
+
+    button {
+      padding: 10px 20px;
+      margin-top: 10px;
+      background: #3b2f2f;
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    /* Sections */
+    section {
+      padding: 40px;
+    }
+
+    .menu {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .card {
+      border: 1px solid #ccc;
+      padding: 20px;
+      width: 150px;
+      border-radius: 10px;
+    }
+
+    /* Footer */
+    footer {
+      background: #3b2f2f;
+      color: white;
+      padding: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Navbar -->
+  <nav>
+    <h2>☕ Coffee House</h2>
+    <div>
+      <a href="#menu">Menu</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <div class="hero">
+    <h1>Fresh Coffee Every Morning ☕</h1>
+    <p>Best coffee in town made with love</p>
+    <button>Order Now</button>
+  </div>
+
+  <!-- Menu -->
+  <section id="menu">
+    <h2>Menu</h2>
+    <div class="menu">
+      <div class="card">☕ Espresso - ₹120</div>
+      <div class="card">🥛 Cappuccino - ₹150</div>
+      <div class="card">🧊 Cold Coffee - ₹180</div>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about">
+    <h2>About Us</h2>
+    <p>We serve freshly brewed coffee with premium beans and cozy vibes.</p>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>📍 Chennai, India</p>
+    <p>📞 +91 98765 43210</p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2026 Coffee House</p>
+  </footer>
+
+</body>
+</html>
