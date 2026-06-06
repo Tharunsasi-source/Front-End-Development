@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hotel Image Slider</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            text-align: center;
+        }
+
+        .slider {
+            width: 700px;
+            margin: 40px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px gray;
+        }
+
+        img {
+            width: 100%;
+            height: 400px;
+            border-radius: 10px;
+            object-fit: cover;
+        }
+
+        button {
+            margin: 10px;
+            padding: 10px 20px;
+            border: none;
+            background-color: blue;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: darkblue;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="slider">
+        <h1>Luxury View Slider</h1>
+
+        <img id="hotelImage"
+             src="https://picsum.photos/id/1018/700/400">
+
+        <br>
+
+        <button onclick="previousImage()">Previous</button>
+        <button onclick="nextImage()">Next</button>
+    </div>
+
+    <script>
+        let images = [
+            "https://picsum.photos/id/1018/700/400",
+            "https://picsum.photos/id/1015/700/400",
+            "https://picsum.photos/id/1043/700/400",
+            "https://picsum.photos/id/1067/700/400"
+        ];
+
+        let index = 0;
+
+        function showImage() {
+            document.getElementById("hotelImage").src = images[index];
+        }
+
+        function nextImage() {
+            index++;
+
+            if (index >= images.length) {
+                index = 0;
+            }
+
+            showImage();
+        }
+
+        function previousImage() {
+            index--;
+
+            if (index < 0) {
+                index = images.length - 1;
+            }
+
+            showImage();
+        }
+    </script>
+
+</body>
+</html>
